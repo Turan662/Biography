@@ -1,0 +1,5 @@
+Ad:Turan
+Soyad:Alməmmədov
+Yaş:20
+Universitet: AzTU
+Şəhər:Bakı
